@@ -1,5 +1,5 @@
 # Weather-App
 
-Fully functioning simple weather application built on Angularjs, HTML, Bootstrap.
+Fully functioning simple weather application built using AngularJS, HTML, Bootstrap.
 
-Source used : https://openweathermap.org/api
+Source used for weather data : https://openweathermap.org/api
