@@ -1,6 +1,8 @@
 // ROUTES
 weatherApp.config(function ($routeProvider) {
-   
+
+    // using single page application SPA for navigation using route service
+
     $routeProvider
     
     .when('/', {
